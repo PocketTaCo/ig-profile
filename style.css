@@ -1,25 +1,47 @@
 .container{
+	width: 1080px;
+	text-align: center;
+	background-color: white;
+	border: 3px lightgreen;
 
 }
 
 #top-bar{
-
-}
-
-#follower-count{
-
-}
-
-#profile{
-
-}
-
-#photo-bar{
+	height: 145px;
 	
 }
 
-#pictures{
-	display:inline;
+#follower-count{
+	height: 355px;
+
+}
+
+#username{
+	text-align: center;
+}
+
+#photo-bar{
+	height: 140px;
+}
+
+#ig-image{
+	
+}
+
+.ig-image{
+	display: inline-block;
 	height: 325px; 
 	width: 325px;
+}
+
+#profile-picture{
+
+	height: 255px;
+	width: 255px;
+	margin-top
+	margin-left
+}
+
+#bottom-bar{
+	height: 135px;
 }
