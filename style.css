@@ -3,17 +3,19 @@
 	text-align: center;
 	background-color: white;
 	border: 3px lightgreen;
-
+	
 }
 
 #top-bar{
 	height: 145px;
+	background-image: url(Top-Bar.png);
 	
 }
 
 #follower-count{
 	height: 355px;
-
+	background-image: url(Follower-Count.png);
+	margin-bottom: 50px;
 }
 
 #username{
@@ -24,14 +26,10 @@
 	height: 140px;
 }
 
-#ig-image{
-	
-}
-
-.ig-image{
+#ig-image .ig-image img{
 	display: inline-block;
-	height: 325px; 
-	width: 325px;
+	height: 300px; 
+	width: 400px;
 }
 
 #profile-picture{
@@ -45,3 +43,4 @@
 #bottom-bar{
 	height: 135px;
 }
+
